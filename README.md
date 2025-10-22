@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/esha-sharma-uix2025/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="workwitheesha@gmail.com" target="_blank">
+  <a href="mailto:workwitheesha@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -24,7 +24,7 @@
 
 ###
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndmYm9mMXIwdTU1bTJldnVpMW5qMm8ydXFmdG0zMmZxdWxobTk5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" alt="Cool GIF" width="600" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJ0cnhkd3pmdHNxYTV6b2tpZW5xaTFpZmh6YXJkNHczcmxtM3Q0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" alt="Cool GIF" width="600" />
 </p>
 
 ###
@@ -37,7 +37,7 @@
 - **Data & Vector Stores:** Pinecone, FAISS, Weaviate, MongoDB, Postgres, Supabase
 - **Tools:** Figma, Notion, JIRA, Power BI
 
----
+
 
 ### 🚀 Featured Projects
 
@@ -46,7 +46,7 @@
 - [Fine-Tuning Open-Source LLMs](https://github.com/promptedbyesha/llm-finetune-lora) — Streamlined pipeline to finetune LLMs with LoRA/QLoRA and deploy using Streamlit
 - [ReelPrompt](https://github.com/promptedbyesha/reelprompt-ai-script-generator) — AI-powered script generator for content creators and marketers
 
----
+
 
 ###
 
@@ -301,6 +301,11 @@
 </div>
 
 ###
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFxZ29lYjIxZDZpNm1mc3JsZ213ajh1eGVieGJueG9mcnRrcGY3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif" alt="Cool GIF" width="600" />
+</p>
+
+###
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -322,7 +327,7 @@ I'm open to:
 - [Connect on LinkedIn](https://www.linkedin.com/in/esha-sharma-uix2025/)
 - 📧 workwitheesha@gmail.com
 
----
+
   
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3l4MmNkMmVncWd6ZGlxenk4YXY3M2FqYTlpZXg1c2thN2pleXpqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9QiBcfzg64Io/giphy.gif" alt="Cool GIF" width="600" />
@@ -335,16 +340,16 @@ I'm open to:
 
 When I'm not building AI agents or fine-tuning models, you'll catch me sharing coding tips, breaking down research papers, and chasing good ideas (plus ☕ and lots of puzzle-solving)!
 
----
+
 ###
 
-<p align="left"><p align="center"><br>  <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Footer GIF" width="600" /><br></p></p>
+<p align="left"><p align="center"><br>  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXk2YTN6ZzhidTl1bXR1Y2syaGJhY3B3NHAyYXI2ZXdraHE5c3ExdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Footer GIF" width="600" /><br></p></p>
 
-💻 Coded with heart, powered by AI, and sprinkled with human curiosity ✨
-© 2025 Esha Sharma | All rights reserved ❤️
-
-🌐 [Connect on LinkedIn](https://www.linkedin.com/in/esha-sharma-uix2025/)  
-✉️ Reach out: workwitheesha@gmail.com
-
+<p align="center">
+💻 Built with love, logic, and a dash of AI magic<br>
+© 2025 Esha Sharma | All rights reserved ❤️<br><br>
+🌐 <a href="https://www.linkedin.com/in/esha-sharma-uix2025/" target="_blank">Connect on LinkedIn</a>  <br>
+✉️ Reach out: <a href="mailto:workwitheesha@gmail.com">workwitheesha@gmail.com</a><br><br>
 ✨ Stay curious • Keep building • Spread good vibes ✨
+</p>
 
