@@ -293,11 +293,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/promptedbyesha/promptedbyesha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/promptedbyesha/promptedbyesha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/promptedbyesha/promptedbyesha/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3l4MmNkMmVncWd6ZGlxenk4YXY3M2FqYTlpZXg1c2thN2pleXpqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9QiBcfzg64Io/giphy.gif" alt="Cool GIF" width="600" />
+</p>
+
 
 ###
   
