@@ -23,6 +23,13 @@
 <h4 align="left">Hi, I’m Esha Sharma 👋 Welcome to my AI playground!🎮🖥️<br><br>- 🔭 I’m working as:<br>→  AI Engineer & Software Engineer<br>→ Specializing in Generative AI, prompt engineering, and end-to-end ML product development.<br><br>- 📚 I'm currently learning :<br>→ LangGraph, Retrieval-Augmented Generation (RAG), and advanced vector databases<br>→ Building & deploying multi-modal AI agents and autonomous workflows<br>→ Model fine-tuning (LoRA, QLoRA) for domain-specific language models<br>→ Full-stack cloud deployment, workflow automation with n8n<br>→ Mastering prompt engineering & next-gen AI orchestration<br><br>- ⚡ In my free time I:<br>→ Develop and contribute to open-source AI products that solve real-world problems<br>→ Craft technical blogs demystifying cutting-edge AI and ML workflows<br>→ Share actionable insights and project updates to inspire the AI community on LinkedIn</h4>
 
 ###
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndmYm9mMXIwdTU1bTJldnVpMW5qMm8ydXFmdG0zMmZxdWxobTk5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" alt="Cool GIF" width="600" />
+</p>
+
+###
+
+###
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -298,8 +305,11 @@
 
 <p align="left"><p align="center"><br>  <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Footer GIF" width="600" /><br></p></p>
 
-###
+💻 Coded with heart, powered by AI, and sprinkled with human curiosity ✨
+© 2025 Esha Sharma | All rights reserved ❤️
 
-<p align="center">💻 Crafted with precision & a sprinkle of AI magic  🌸✨ <br>© 2025 Esha Sharma ❤️ <br>🌐(https://www.linkedin.com/in/esha-sharma-uix2025/)  <br>📧workwitheesha@gmail.com</p>
+🌐 [Connect on LinkedIn](https://www.linkedin.com/in/esha-sharma-uix2025/)  
+✉️ Reach out: workwitheesha@gmail.com
 
-###
+✨ Stay curious • Keep building • Spread good vibes ✨
+
