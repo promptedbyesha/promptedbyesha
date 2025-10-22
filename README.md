@@ -1,7 +1,6 @@
 <p align="left"><p align="center"><br>  <img src="https://media0.giphy.com/media/l3vR0P9Xq1TQ4FCQo/giphy.gif" alt="Centered GIF Banner" style="width: 100%; height: auto;" /><br></p></p>
 
 ###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/esha-sharma-uix2025/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -21,7 +20,7 @@
 
 ###
 
-<h5 align="left">Hi, I’m Esha Sharma 👋 Welcome to my AI playground!🎮🖥️<br><br>- 🔭 I’m working as:<br>→  AI Engineer & Software Engineer<br>→ Specializing in Generative AI, prompt engineering, and end-to-end ML product development.<br><br>- 📚 I'm currently learning :<br>→ LangGraph, Retrieval-Augmented Generation (RAG), and advanced vector databases<br>→ Building & deploying multi-modal AI agents and autonomous workflows<br>→ Model fine-tuning (LoRA, QLoRA) for domain-specific language models<br>→ Full-stack cloud deployment, workflow automation with n8n<br>→ Mastering prompt engineering & next-gen AI orchestration<br><br>- ⚡ In my free time I:<br>→ Develop and contribute to open-source AI products that solve real-world problems<br>→ Craft technical blogs demystifying cutting-edge AI and ML workflows<br>→ Share actionable insights and project updates to inspire the AI community on LinkedIn</h5>
+<h4 align="left">Hi, I’m Esha Sharma 👋 Welcome to my AI playground!🎮🖥️<br><br>- 🔭 I’m working as:<br>→  AI Engineer & Software Engineer<br>→ Specializing in Generative AI, prompt engineering, and end-to-end ML product development.<br><br>- 📚 I'm currently learning :<br>→ LangGraph, Retrieval-Augmented Generation (RAG), and advanced vector databases<br>→ Building & deploying multi-modal AI agents and autonomous workflows<br>→ Model fine-tuning (LoRA, QLoRA) for domain-specific language models<br>→ Full-stack cloud deployment, workflow automation with n8n<br>→ Mastering prompt engineering & next-gen AI orchestration<br><br>- ⚡ In my free time I:<br>→ Develop and contribute to open-source AI products that solve real-world problems<br>→ Craft technical blogs demystifying cutting-edge AI and ML workflows<br>→ Share actionable insights and project updates to inspire the AI community on LinkedIn</h4>
 
 ###
 
@@ -294,6 +293,7 @@
 </picture>
 
 ###
+  
 ###
 
 <p align="left"><p align="center"><br>  <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Footer GIF" width="600" /><br></p></p>
