@@ -28,6 +28,25 @@
 </p>
 
 ###
+## 🧠 Top Skills
+
+- **AI/ML & LLMs:** Generative AI, LangChain, Hugging Face, NLP, Transformers, RAG, Model Fine-tuning (LoRA, QLoRA)
+- **Programming:** Python, TypeScript, JavaScript, SQL
+- **Frameworks:** React.js, Next.js, FastAPI, Streamlit, PyTorch, TensorFlow, MLflow
+- **Platforms & Cloud:** AWS, Azure, Docker, GitHub Actions, Vercel, Render
+- **Data & Vector Stores:** Pinecone, FAISS, Weaviate, MongoDB, Postgres, Supabase
+- **Tools:** Figma, Notion, JIRA, Power BI
+
+---
+
+### 🚀 Featured Projects
+
+- [ViLT Vision-and-Language Transformer](https://github.com/promptedbyesha/vilt-experiment) — End-to-end implementation of the ViLT model with attention visualization and MSCOCO integration
+- [Crypto Dash](https://github.com/promptedbyesha/Crypto-Dash-Real-Time-Cryptocurrency-Dashboard) — Real-time cryptocurrency analytics dashboard built with React.js and FastAPI
+- [Fine-Tuning Open-Source LLMs](https://github.com/promptedbyesha/llm-finetune-lora) — Streamlined pipeline to finetune LLMs with LoRA/QLoRA and deploy using Streamlit
+- [ReelPrompt](https://github.com/promptedbyesha/reelprompt-ai-script-generator) — AI-powered script generator for content creators and marketers
+
+---
 
 ###
 
@@ -292,7 +311,19 @@
 </div>
 
 ###
+## 🤝 Let’s Collaborate!
 
+I'm open to:
+- AI-driven product teaming (LLMs, custom agents, automation)
+- Frontend engineering for analytics dashboards
+- Research & implementation of new GenAI workflows
+- Open-source contributions in AI/ML
+  DM or email!  
+- [Connect on LinkedIn](https://www.linkedin.com/in/esha-sharma-uix2025/)
+- 📧 workwitheesha@gmail.com
+
+---
+  
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3l4MmNkMmVncWd6ZGlxenk4YXY3M2FqYTlpZXg1c2thN2pleXpqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9QiBcfzg64Io/giphy.gif" alt="Cool GIF" width="600" />
 </p>
@@ -300,6 +331,11 @@
 
 ###
   
+## 💡 Fun Fact
+
+When I'm not building AI agents or fine-tuning models, you'll catch me sharing coding tips, breaking down research papers, and chasing good ideas (plus ☕ and lots of puzzle-solving)!
+
+---
 ###
 
 <p align="left"><p align="center"><br>  <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Footer GIF" width="600" /><br></p></p>
