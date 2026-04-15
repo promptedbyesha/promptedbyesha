@@ -220,3 +220,38 @@
 </div>
 
 ###
+---
+
+<div align="center">
+
+<br>
+
+### 🤝 Let's Collab!
+
+Got a data problem that needs solving? A product that needs sharper insights? <br>
+Or just want to geek out about funnels and retention curves at 2am? I'm in.
+
+<br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workwitheesha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/workwitheesha/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=notion&logoColor=white)](https://eshasharma.notion.site/Esha-Sharma-Business-Product-Analyst-2c899496b51c80579951d42c97b03025)
+
+<br>
+
+---
+
+### ⚡ Fun Fact
+
+I can look at a drop-off funnel and feel **personally offended** on behalf of the business. 😤 <br>
+I've probably built more dashboards than I've taken vacations — that's a metric I'm actively fixing. 📊 → 🏖️
+
+<br>
+
+---
+
+*Made with 💛 by Esha · turning numbers into narratives, one query at a time*
+
+<br>
+
+</div>
