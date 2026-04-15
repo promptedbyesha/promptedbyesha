@@ -21,6 +21,11 @@
 
 <p align="center">Hi, I'm Esha Sharma 👋<br>💼 Business & Product Analyst<br>📊 Turning data into actionable business decisions<br><br>Curious about data, products, and how businesses actually grow? You're in the right place.<br><br>I specialize in analyzing user behavior, identifying growth opportunities, and translating data into clear business strategies.<br><br>What I do<br>📉 Funnel Analysis → Identify where users drop off<br>🔁 Cohort Retention → Understand user lifecycle and repeat behavior<br>📊 KPI Dashboards → Track business and product performance<br>🧠 Business Insights → Convert data into decisions, not just reports<br><br>Currently working on<br>Advanced product analytics frameworks including activation, retention, and churn<br>Building end-to-end analytics projects using SQL, Python, and Tableau<br>Improving business storytelling and stakeholder communication<br>Designing data-driven decision systems for SaaS and e-commerce<br><br>Featured projects<br>📊 Olist E-Commerce Funnel & Retention Analysis<br>Analyzed 100K+ real-world e-commerce orders<br>Identified funnel drop-offs and cohort retention trends<br>Built Tableau dashboard and Python cohort model<br>https://github.com/promptedbyesha/Olist-Ecommerce-Analysis<br><br>📈 Customer Health Scoring Dashboard<br>Built KPI-based health model combining usage and support data<br>Improved risk detection speed by 2x<br><br>🔄 Mini CRM + Workflow System<br>Designed lifecycle tracking system with automation<br>Reduced manual processes by approximately 50%<br><br>Tools and skills<br>Analytics<br>SQL, Python (pandas), Tableau, Power BI<br><br>Core skills<br>Funnel Analysis, Cohort Analysis, KPI Frameworks, Retention Analysis<br><br>Business skills<br>Process Optimization, Stakeholder Alignment, Data Storytelling<br><br>Connect with me:<br>Email: workwitheesha@gmail.com<br>LinkedIn: https://www.linkedin.com/in/workwitheesha/<br>Portfolio: https://eshasharma.notion.site/Esha-Sharma-Business-Product-Analyst-2c899496b51c80579951d42c97b03025</p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif" width="350" />
+</div>
+
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -209,6 +214,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
 </div>
 
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -222,8 +228,13 @@
 ###
 ---
 
-<div align="center">
 
+<div align="center">
+  
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
+</div>
+  
 <br>
 
 ### 🤝 Let's Collab!
