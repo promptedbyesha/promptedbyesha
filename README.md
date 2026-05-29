@@ -1,6 +1,6 @@
 <p align="left"><p align="center"><br>  <img src="https://media0.giphy.com/media/l3vR0P9Xq1TQ4FCQo/giphy.gif" alt="Centered GIF Banner" style="width: 100%; height: auto;" /><br></p>
 </p>
-<h1 align="center">Hey there 👋 Curious about how data actually drives business decisions?  <br>You’re in the right place 📊</h1>
+<h1 align="center">Hey there 👋 Curious about how AI products actually fail their users? <br>You're in the right place 🧠</h1>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<p align="center">Hi, I'm Esha Sharma 👋<br>💼 Business & Product Analyst<br>📊 Turning data into actionable business decisions<br><br>Curious about data, products, and how businesses actually grow? You're in the right place.<br><br>I specialize in analyzing user behavior, identifying growth opportunities, and translating data into clear business strategies.<br><br>What I do<br>📉 Funnel Analysis → Identify where users drop off<br>🔁 Cohort Retention → Understand user lifecycle and repeat behavior<br>📊 KPI Dashboards → Track business and product performance<br>🧠 Business Insights → Convert data into decisions, not just reports<br><br>Currently working on<br>Advanced product analytics frameworks including activation, retention, and churn<br>Building end-to-end analytics projects using SQL, Python, and Tableau<br>Improving business storytelling and stakeholder communication<br>Designing data-driven decision systems for SaaS and e-commerce<br><br>Featured projects<br>📊 Olist E-Commerce Funnel & Retention Analysis<br>Analyzed 100K+ real-world e-commerce orders<br>Identified funnel drop-offs and cohort retention trends<br>Built Tableau dashboard and Python cohort model<br>https://github.com/promptedbyesha/Olist-Ecommerce-Analysis<br><br>📈 Customer Health Scoring Dashboard<br>Built KPI-based health model combining usage and support data<br>Improved risk detection speed by 2x<br><br>🔄 Mini CRM + Workflow System<br>Designed lifecycle tracking system with automation<br>Reduced manual processes by approximately 50%<br><br>Tools and skills<br>Analytics<br>SQL, Python (pandas), Tableau, Power BI<br><br>Core skills<br>Funnel Analysis, Cohort Analysis, KPI Frameworks, Retention Analysis<br><br>Business skills<br>Process Optimization, Stakeholder Alignment, Data Storytelling<br><br>Connect with me:<br>Email: workwitheesha@gmail.com<br>LinkedIn: https://www.linkedin.com/in/workwitheesha/<br>Portfolio: https://eshasharma.notion.site/Esha-Sharma-Business-Product-Analyst-2c899496b51c80579951d42c97b03025</p>
+<p align="center">Hi, I'm Esha Sharma 👋<br>🧠 AI Product Manager<br>📊 Turning user problems into product decisions<br><br>Curious about AI products, product strategy, and how user trust actually works? You're in the right place.<br><br>I specialize in writing PRDs, running product teardowns, and researching how AI products fail their users, then designing the solutions.<br><br>What I do<br>📋 PRD Writing → End-to-end product specs with user research, RICE prioritization, and rollout plans<br>🔍 Product Teardowns → Identifying systemic failures connected to real business metrics<br>🤖 AI Trust Research → Documenting how and where AI products fail, with evidence<br>📊 Data & Analytics → SQL, Python, A/B testing, cohort modeling, retention analysis<br><br>Currently working on<br>AI PM portfolio projects, PRDs, teardowns, and trust research<br>LLM fine-tuning and AI product behavior analysis<br>Metrics frameworks for AI-specific product failures<br>Building in public before being hired<br><br>Featured projects<br>🧠 AI Trust & Failure Analysis — Independent Research<br>Tested ChatGPT, Claude, and Gemini across 5 real task types<br>Defined 5-type failure taxonomy with real observed evidence<br>Built Trust Recovery Framework and 5-metric KPI system including Silent Failure Rate<br>Delivered VP-level executive memo on confidence signaling as highest-ROI retention lever<br>https://eshasharma.notion.site/AI-Trust-Failure-Analysis-36599496b51c80f29222d6678d9a7734?source=copy_link<br><br>📋 Notion AI — Workspace Memory Layer PRD<br>Designed end-to-end concept PRD for a missing Notion AI feature<br>User research, RICE prioritization, AI privacy framework, 6-week MVP scope<br>https://eshasharma.notion.site/The-Missing-Layer-A-PRD-for-Persistent-Context-in-Notion-AI-36399496b51c80aebc92cb95e78b2980?source=copy_link<br><br>📉 Perplexity AI — Product Teardown<br>Identified 3 systemic product problems connected to retention and trust<br>Designed 3 prioritized feature recommendations with target metrics<br>Defined Northstar metric: Weekly Research Return Rate<br><br>📊 Olist E-Commerce Funnel & Retention Analysis<br>Analyzed 100K+ real-world e-commerce orders using SQL and Python<br>Identified funnel drop-offs and cohort retention trends revealing ~30–35% month-2 churn<br>Built Tableau dashboard and delivered 3 prioritized fixes projecting 15–20% retention improvement<br>https://github.com/promptedbyesha/Olist-Ecommerce-Analysis<br><br>Tools and skills<br>Product<br>PRD Writing, RICE Prioritization, User Research, Product Teardowns, Metrics Design<br><br>AI & Analytics<br>SQL, Python (pandas, scipy), Tableau, Power BI, LLM Fine-tuning<br><br>Business skills<br>Stakeholder Communication, Decision Memos, KPI Frameworks, A/B Testing<br><br>Connect with me:<br>Email: workwitheesha@gmail.com<br>LinkedIn: https://www.linkedin.com/in/workwitheesha/<br>Portfolio: https://workwitheesha.framer.website/</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif" width="350" />
@@ -237,16 +237,16 @@
   
 <br>
 
-### 🤝 Let's Collab!
+### 🤝 Let's Connect!
 
-Got a data problem that needs solving? A product that needs sharper insights? <br>
-Or just want to geek out about funnels and retention curves at 2am? I'm in.
+Got an AI product problem that needs sharper thinking? A team building something in the AI space? <br>
+Or just want to geek out about trust metrics and failure taxonomies at 2am? I'm in.
 
 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workwitheesha@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/workwitheesha/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=notion&logoColor=white)](https://eshasharma.notion.site/Esha-Sharma-Business-Product-Analyst-2c899496b51c80579951d42c97b03025)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=notion&logoColor=white)](https://workwitheesha.framer.website)
 
 <br>
 
@@ -254,14 +254,14 @@ Or just want to geek out about funnels and retention curves at 2am? I'm in.
 
 ### ⚡ Fun Fact
 
-I can look at a drop-off funnel and feel **personally offended** on behalf of the business. 😤 <br>
-I've probably built more dashboards than I've taken vacations — that's a metric I'm actively fixing. 📊 → 🏖️
+I can look at an AI product failure and immediately think of three product solutions. 🧠 <br>
+I've probably written more PRDs than I've taken vacations — that's a metric I'm actively fixing. 📋 → 🏖️
 
 <br>
 
 ---
 
-*Made with 💛 by Esha · turning numbers into narratives, one query at a time*
+*Made with 💛 by Esha · turning AI behavior into product decisions, one framework at a time*
 
 <br>
 
